@@ -3,12 +3,24 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "@skyscanner/backpack-react-scripts": "11.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "start-ssr": "react-scripts start-ssr",
     "build": "react-scripts build",
+=======
+    "@skyscanner/backpack-react-scripts": "10.4.0",
+    "bpk-component-button": "^7.1.2",
+    "bpk-component-input": "^7.1.2",
+    "bpk-component-text": "^8.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "start-ssr": "react-scripts start-ssr",
+    "build": "react-scripts --openssl-legacy-provider build",
+>>>>>>> 960b503a5ad9f3ac2b9ca498b2ecdfa1be5e2be2
     "build-ssr": "react-scripts build-ssr",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -27,14 +39,25 @@
   },
   "devDependencies": {
     "@skyscanner/backpack-web": "^15.1.0",
+<<<<<<< HEAD
+=======
+    "bpk-component-calendar": "^13.1.2",
+>>>>>>> 960b503a5ad9f3ac2b9ca498b2ecdfa1be5e2be2
     "bpk-mixins": "^36.2.0",
     "bpk-stylesheets": "^7.2.16",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
+<<<<<<< HEAD
   }, 
   "backpack-react-scripts": {
     "babelIncludePrefixes": [
       "@skyscanner/backpack-web"
+=======
+  },
+  "backpack-react-scripts": {
+    "babelIncludePrefixes": [
+      "@skyscanner\\/backpack-web\\/bpk-"
+>>>>>>> 960b503a5ad9f3ac2b9ca498b2ecdfa1be5e2be2
     ]
   }
 }

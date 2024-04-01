@@ -5,9 +5,15 @@
 > so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 > for more usage information.
 
+<<<<<<< HEAD
 # [_Put your project name here_]
 
 [_Add a brief description of your project here._]
+=======
+Backpack-Callendar
+
+Calendar for flight booking system using backpack package from sky scanner
+>>>>>>> 960b503a5ad9f3ac2b9ca498b2ecdfa1be5e2be2
 
 ## npm script commands
 

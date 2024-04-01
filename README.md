@@ -1,15 +1,4 @@
-> _This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) +
-> [backpack-react-scripts](https://github.com/Skyscanner/backpack-react-scripts/tree/master/packages/react-scripts)._
-> It is very similar to one that you would create using [Create React App](https://github.com/facebook/create-react-app)
-> without [backpack-react-scripts](https://github.com/Skyscanner/backpack-react-scripts/tree/master/packages/react-scripts),
-> so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
-> for more usage information.
 
-<<<<<<< HEAD
-# [_Put your project name here_]
-
-[_Add a brief description of your project here._]
-=======
 Backpack-Callendar
 
 Calendar for flight booking system using backpack package from sky scanner

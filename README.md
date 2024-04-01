@@ -2,7 +2,7 @@
 Backpack-Callendar
 
 Calendar for flight booking system using backpack package from sky scanner
->>>>>>> 960b503a5ad9f3ac2b9ca498b2ecdfa1be5e2be2
+
 
 ## npm script commands
 
